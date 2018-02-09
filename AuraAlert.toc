@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: AuraAlert
+## Notes: Alerts player on aura missing
+## SavedVariables: AA_config
+AuraAlert.lua
